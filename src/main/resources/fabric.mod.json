@@ -3,8 +3,8 @@
   "id": "baguette",
   "version": "${version}",
 
-  "name": "La Baguette",
-  "description": "Implements the La Baguette item from the April Fool's snapshot.",
+  "name": "Baguettes",
+  "description": "Implements Baguettes into Minecraft!",
   "authors": [
     "Crackle"
   ],
